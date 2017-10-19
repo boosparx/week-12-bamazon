@@ -1,0 +1,26 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "Week 12 Homework UCF Code BootCamp",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boosparx/week-12-bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boosparx/week-12-bamazon/issues"
+  },
+  "homepage": "https://github.com/boosparx/week-12-bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^1.2.3",
+    "mysql": "^2.15.0",
+    "prompt": "^1.0.0"
+  }
+}
